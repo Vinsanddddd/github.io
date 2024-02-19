@@ -1,0 +1,11 @@
+body {
+    background-color: white; /* Белый фон */
+    font-family: Arial, sans-serif; /* Шрифт */
+}
+
+.top-text {
+    text-align: center; /* Выравнивание текста по центру */
+    background-color: #f0f0f0; /* Цвет фона для текста */
+    padding: 20px; /* Отступы вокруг текста */
+    margin-bottom: 20px; /* Отступ снизу */
+}
